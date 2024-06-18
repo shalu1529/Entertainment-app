@@ -5,7 +5,9 @@ This is a entertainment website similar to Netflix that display a list of movies
 
 This project is created in response to the capstone project for module 5 of Full stack web development course for Almabetter.
 
-### Deployment Link-https://entertainment-app-frontend-styv.onrender.com/
+### Deployment
+frontend-Link:  https://entertainment-app-frontend-styv.onrender.com/
+backend-Link:   https://entertainment-app-2-0.onrender.com
 
 
 ## Overview
